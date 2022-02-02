@@ -5,4 +5,12 @@ Mansory js: https://masonry.desandro.com/
 Rellax js: https://dixonandmoe.com/rellax/
 bootstrap icon: https://icons.getbootstrap.com/
 
-If there is anything i can do better, you can alawys say somwthing. Im active 
+If there is anything I can do better, you can alawys say something. I'm active.
+
+You have really done a great work @DeanSoftDev. Welldone!!!
+I forked the repository, and added some changes to the code. You may want to merge to your branch.
+
+***************************
+
+Great job :thumbsup: 
+Happy Coding!!!
