@@ -34,7 +34,7 @@
 
 *>* {
     box-sizing: border-box;
-    padding: 0;
+    padding: -10;
     margin: 0;
 }
 
@@ -266,7 +266,7 @@ ul {
 
 body {
     width: 100%;
-    background: url('/assets/backgroundpng.png') no-repeat;
+    background: url('./assets/backgroundpng.png') no-repeat;
     background-size: cover;
 }
 
